@@ -1,40 +1,53 @@
-LeetCode Solutions 🚀
+# Leetcode Solutions
 
-This repository contains my solutions to various LeetCode problems, written in different programming languages. The goal is to improve problem-solving skills and enhance coding proficiency.
+This repository contains solutions to various Leetcode problems. Each solution is organized in its own directory with a detailed explanation and code implementation.
 
-📌 Repository Structure
-Each solution is categorized by difficulty level and topic.
+## 📂 Directory Structure
 
-Solutions are written in C++, Java, and Python (or any other language you use).
+- `0011-container-with-most-water/`
+  - `README.md` - Explanation and solution for "Container With Most Water"
+  - `solution.cpp` - C++ solution
+  - `solution.py` - Python solution (if available)
 
-Each problem includes a brief explanation and approach.
+- `0013-roman-to-integer/`
+  - `README.md` - Explanation and solution for "Roman to Integer"
+  - `solution.cpp` - C++ solution
+  - `solution.py` - Python solution (if available)
 
-🔥 Topics Covered
-Arrays & Strings
+- `0021-merge-two-sorted-lists/`
+  - `README.md` - Explanation and solution for "Merge Two Sorted Lists"
+  - `solution.cpp` - C++ solution
+  - `solution.py` - Python solution (if available)
 
-Linked Lists
+## 🚀 How to Use
 
-Recursion & Backtracking
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/ShashwatPathak-01/Leetcode.git
+    cd Leetcode
+    ```
 
-Dynamic Programming
+2. **Navigate to a problem directory**:
+    ```bash
+    cd 0011-container-with-most-water
+    ```
 
-Graphs & Trees
+3. **Run the solution**:
+    - For C++:
+      ```bash
+      g++ solution.cpp -o solution
+      ./solution
+      ```
+    - For Python:
+      ```bash
+      python solution.py
+      ```
 
-Bit Manipulation
+## 🛠 Technologies Used
 
-Multi-threading (Java-specific)
+- C++
+- Python
 
-🎯 How to Use
-Clone the repository:
+## 📢 Contributing
 
-sh
-Copy
-Edit
-git clone https://github.com/ShashwatPathak-01/leetcode-solutions.git  
-Navigate to the problem directory and check the solution.
-
-💡 Contributing
-Feel free to suggest improvements or new approaches to existing problems.
-
-⭐ Stay Connected
-If you find these solutions helpful, consider giving a ⭐ to the repository!
+Feel free to fork this repository and submit pull requests if you’d like to improve the solutions or add new ones!
