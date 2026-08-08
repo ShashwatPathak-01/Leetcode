@@ -51,3 +51,11 @@ This repository contains solutions to various Leetcode problems. Each solution i
 ## 📢 Contributing
 
 Feel free to fork this repository and submit pull requests if you’d like to improve the solutions or add new ones!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShashwatPathak-01/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+<!---LeetCode Topics End-->
