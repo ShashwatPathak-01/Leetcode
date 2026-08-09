@@ -57,5 +57,10 @@ Feel free to fork this repository and submit pull requests if you’d like to im
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/ShashwatPathak-01/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShashwatPathak-01/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/ShashwatPathak-01/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 <!---LeetCode Topics End-->
