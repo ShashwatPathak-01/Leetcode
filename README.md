@@ -58,6 +58,7 @@ Feel free to fork this repository and submit pull requests if you’d like to im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/ShashwatPathak-01/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/ShashwatPathak-01/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShashwatPathak-01/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShashwatPathak-01/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
@@ -72,4 +73,12 @@ Feel free to fork this repository and submit pull requests if you’d like to im
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShashwatPathak-01/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ShashwatPathak-01/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ShashwatPathak-01/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
